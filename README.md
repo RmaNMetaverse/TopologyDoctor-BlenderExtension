@@ -1,5 +1,7 @@
 # Topology Doctor
 
+[Topo Doctor.py](https://github.com/user-attachments/files/24929375/Topo.Doctor.py)
+Download Extension: https://extensions.blender.org/add-ons/topology-doctor/
 Topology Doctor is a professional analysis tool for Blender that helps you create clean, production-ready 3D models.
 
 ## Features
