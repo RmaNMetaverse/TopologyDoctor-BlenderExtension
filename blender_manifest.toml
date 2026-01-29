@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+id = "topology_doctor"
+version = "1.0.0"
+name = "Topology Doctor"
+tagline = "One-click topology analysis and repair assistant"
+maintainer = "Arman Jangmiri (RmaN)"
+type = "add-on"
+website = "https://github.com/RmaNMetaverse/"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+clipboard = "Required to copy the topology analysis report text to clipboard"
+
+[build]
+paths = ["."]
