@@ -1,9 +1,9 @@
 # Topology Doctor
-
-[[Topo Doctor.py](https://github.com/user-attachments/files/24929375/Topo.Doctor.py)](https://github.com/user-attachments/assets/1287704b-290c-47cf-a964-a751143b2469)
+https://github.com/user-attachments/assets/1287704b-290c-47cf-a964-a751143b2469
+Topology Doctor is a professional analysis tool for Blender that helps you create clean, production-ready 3D models.
 
 Download Extension: (https://extensions.blender.org/add-ons/topology-doctor/)
-Topology Doctor is a professional analysis tool for Blender that helps you create clean, production-ready 3D models.
+
 
 ## Features
 * **One-Click Analysis:** Instantly checks for N-Gons, Holes (Non-Manifold), and Slivers.
